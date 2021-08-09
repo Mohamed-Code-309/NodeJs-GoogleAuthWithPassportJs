@@ -12,4 +12,6 @@
 
 #
 
-To Run The App : run the command `npm install` then after installing the package run the command `node App`
+To Run The App : 
+
+run the command `npm install` then after installing the package run the command `node App`
