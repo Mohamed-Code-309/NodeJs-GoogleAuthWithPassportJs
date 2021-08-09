@@ -10,4 +10,6 @@
 
 * the database used in this App is `mongodb` with the help of `mongoose` package to map database object to javascript object
 
-To Run The App : run the command `npm install` then after installing the package run the command 'node App'
+#
+
+To Run The App : run the command `npm install` then after installing the package run the command `node App`
